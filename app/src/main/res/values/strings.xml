@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpinnerExample</string>
+    <string name="message">the fruit you have select is:</string>
+</resources>
